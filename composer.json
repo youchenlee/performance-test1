@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/http-foundation": "^3.2",
+        "nikic/fast-route": "^1.2"
+    }
+}
